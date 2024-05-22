@@ -1,0 +1,10 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  background: url("image/bg1.png");
+  background-size: cover;
+  background-repeat: initial;
+}
+#board {
+  background-image: url("image/bg.jpg");
+}
